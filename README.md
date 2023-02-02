@@ -11,4 +11,16 @@ Environmental Change (EARS 6) is an introductory course in Earth Sciences where 
 
 ![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/S20_EARS6/blob/62b26bae3464c263efae9e4d6610e07926276055/EARS6_Badge.png)
 ### Folder Structure
+The folder *completed_module* contains all of the module components.  
+
+The *components* subfolder has several files:
+- 032020_EARS6_ExampleDataStructure.xlsx: a excel template for data collection
+- 032020_EARS6_ExampleResults.docx: an example of results from analysis
+- 032020_EARS6_StudentInstructions.docx: instructions for students
+- ASSIGNMENT1.md  (USED?)
+
+The *logistics* folder contains one file:
+- 032020_EARS6_InstructorNotes.docx: notes for implementation of the module
+
+
 
