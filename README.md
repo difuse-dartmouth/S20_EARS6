@@ -9,7 +9,7 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 Environmental Change (EARS 6) is an introductory course in Earth Sciences where students explore the factors that impact environmental change and their consequences.  The module provides students with the opportunity to collect and analyze their own data as well as analyze publicly available climate and solar data sources.  Students collect and analyze solar incidence angles over time to evaluate their own hypotheses, coupling this with the additional data analysis to draw conclusions about environmental change.  This module uses excel as its main tool and engages students in data collection, analysis, visualization, and drawing conclusions. 
 
-![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/S20_EARS6/blob/62c34fffc86d929ce3412fa5258f2a5236ec2107/EARS%206%20badge.png "Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.")
+![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/S20_EARS6/blob/5da3d575e8d6475a1966f4a134ccdd640f4bd9e9/EARS%206%20badge.png "Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.")
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/S20_EARS6/commits/main/).
 ### Folder Structure
