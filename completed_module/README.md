@@ -32,3 +32,17 @@ By completing this term project, you will:
 6. Deliverable: Final Project Report (Manuscript)
 7. Deliverable: Video Abstract (1-3 minutes)
 8. Deliverable: Reflection (1 paragraph)
+
+# Module Timeline
+
+| Item                                | Schedule                         |
+|-------------------------------------|----------------------------------|
+| Construct calibration stations      | Before term                      |
+| Pre-project questionairre           | Beginning of the term            |
+| Create google sheets for each group | Before data collection           |
+| Measure shoe at calibration station | As needed throughout the term    |
+| Measure and record incidence angle  | Daily                            |
+| Preliminary data and hypothesis     | Due determined by feedback cycle |
+| Final project report                | End of term                      |
+| Video Abstract                      | End of term                      |
+| Reflections                         | End of term                      |
