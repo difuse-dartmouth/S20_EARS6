@@ -11,7 +11,7 @@ Environmental Change (EARS 6) is an introductory course in Earth Sciences where 
 
 ![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/S20_EARS6/blob/5da3d575e8d6475a1966f4a134ccdd640f4bd9e9/EARS%206%20badge.png "Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.")
 
-(<a href="https://github.dev/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md#L1">What does this badge mean?</a>)
+(<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/S20_EARS6/commits/main/).
 ### Folder Structure
