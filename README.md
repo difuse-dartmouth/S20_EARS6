@@ -23,7 +23,6 @@ The *components* subfolder has several files:
 - 032020_EARS6_ExampleDataStructure.xlsx: a excel template for data collection
 - 032020_EARS6_ExampleResults.docx: an example of results from analysis
 - 032020_EARS6_StudentInstructions.docx: instructions for students
-- ASSIGNMENT1.md  (USED?)
 
 The *logistics* folder contains one file:
 - 032020_EARS6_InstructorNotes.docx: notes for implementation of the module
