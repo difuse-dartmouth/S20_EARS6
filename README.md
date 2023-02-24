@@ -1,5 +1,5 @@
 # EARS 6 DIFUSE Module
-![DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/S20_EARS6/blob/5240b51640d9252632464554471b799336897500/repository-assets/EARS6_DIFUSE.png "DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002")
+![DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002]repository-assets/EARS6_DIFUSE.png "DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002")
 
 
 ## Project Team: Sarah Lee (GR), Elisabeth Baumann '22, Professor Bob Hawley (Earth Sciences), Petra Bonfert-Taylor (PI, Professor of Engineering), Lorie Loeb (PI, Professor of Computer Science), Scott Pauls (PI, Professor of Mathematics), Laura Ray (PI, Professor of Engineering)
