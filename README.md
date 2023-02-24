@@ -1,5 +1,5 @@
 # EARS 6 DIFUSE Module
-![DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/S20_EARS6/blob/5240b51640d9252632464554471b799336897500/EARS6_DIFUSE.png "DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002")
+![DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/S20_EARS6/blob/5240b51640d9252632464554471b799336897500/repository-assets/EARS6_DIFUSE.png "DIFUSE Data Science Module.  Earth Science 6: Environmental change.  Professor Bob Hawley, Dartmouth College.  Funded by NSF IUSE1917002")
 
 
 ## Project Team: Sarah Lee (GR), Elisabeth Baumann '22, Professor Bob Hawley (Earth Sciences), Petra Bonfert-Taylor (PI, Professor of Engineering), Lorie Loeb (PI, Professor of Computer Science), Scott Pauls (PI, Professor of Mathematics), Laura Ray (PI, Professor of Engineering)
@@ -9,7 +9,7 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 Environmental Change (EARS 6) is an introductory course in Earth Sciences where students explore the factors that impact environmental change and their consequences.  The module provides students with the opportunity to collect and analyze their own data as well as analyze publicly available climate and solar data sources.  Students collect and analyze solar incidence angles over time to evaluate their own hypotheses, coupling this with the additional data analysis to draw conclusions about environmental change.  This module uses excel as its main tool and engages students in data collection, analysis, visualization, and drawing conclusions. 
 
-![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/S20_EARS6/blob/5da3d575e8d6475a1966f4a134ccdd640f4bd9e9/EARS%206%20badge.png "Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.")
+![Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.](repository-assets/EARS%206%20badge.png "Term length module using Excel and covering aquiring, analyzing, visualizing data and drawing conclusions.")
 
 (<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
 
