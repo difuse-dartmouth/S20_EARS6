@@ -63,6 +63,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 | Reflections                         | End of term                      |
 
 ## Course Information
+
 The module was developed for an introductory Earth Sciences course, <a href="http://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-6">Environmental Change</a>, at Dartmouth College which explores natural and human induced changes to the environment.  As it is introductory, students are not expected to have any particular set of background preparation.  But for this project, it is expected that the students have familiarity with terms associated with the environment and climate. If not, some lecture time should be taken to establish knowledge of determinants of climate and weather. It will also be beneficial if the students have prior knowledge of the scientific method as they will be exercising it throughout the project.
 ---
 
