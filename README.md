@@ -2,7 +2,7 @@
 
 ## Contributors: Sarah Lee (GR), Elisabeth Baumann ('22), Bob Hawley (Professor of Earth Sciences), Petra Bonfert-Taylor (DIFUSE PI, Professor of Engineering), Lorie Loeb (DIFUSE PI, Professor of Computer Science), Scott Pauls (DIFUSE PI, Professor of Mathematics), Laura Ray (DIFUSE PI, Professor of Engineering)
 
-![Earth Sciences: Environmental Change DIFUSE Module Funded by NSF IUSE1917002](repository-assests/images/DIFUSE-EARS6.png)
+![Earth Sciences: Environmental Change DIFUSE Module Funded by NSF IUSE1917002](repository-assets/images/DIFUSE-EARS6.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
@@ -31,7 +31,7 @@ Through this project, the students will have the opportunity to measure environm
 Students collect data on solar incidence angle and use public climate and weather data from Dartmouth and other sources.
 
 ### Platform
-The module uses google sheets or excel to collate and analyze data.
+The module uses Google Sheets or Excel to collate and analyze data.
 
 ## Schedule and Links
 
@@ -54,7 +54,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 | [Instructor Notes](completed_module/logistics/032020_EARS6_InstructorNotes.docx)| Read in preparation |
 | Construct calibration stations      | Before term                      |
 | [Pre-project questionairre and instructions](completed_module/components/032020_EARS6_StudentInstructions.docx)| Beginning of the term            |
-| [Create google sheets for each group](completed_module/components/032020_EARS6_ExampleDataStructure.xlsx) | Before data collection           |
+| [Create Google Sheets for each group](completed_module/components/032020_EARS6_ExampleDataStructure.xlsx) | Before data collection           |
 | Measure shoe at calibration station | As needed throughout the term    |
 | Measure and record incidence angle  | Daily                            |
 | Preliminary data and hypothesis ([Example results](completed_module/components/032020_EARS6_ExampleDataStructure.xlsx))     | Due determined by feedback cycle |
@@ -70,6 +70,6 @@ The module was developed for an introductory Earth Sciences course, <a href="htt
 | <a href="https://github.com/difuse-dartmouth/earth-sciences-environmental-change/archive/refs/heads/main.zip"><img src="/repository-assets/images/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/earth-sciences-environmental-change/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/earth-science-environmental-change/commits/main/).
 
 
